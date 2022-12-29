@@ -1,0 +1,15 @@
+C:\Users\gluhi\source\repos\lab3_PersonalTask\bin\Debug\lab3_PersonalTask.exe.config
+C:\Users\gluhi\source\repos\lab3_PersonalTask\bin\Debug\lab3_PersonalTask.exe
+C:\Users\gluhi\source\repos\lab3_PersonalTask\bin\Debug\lab3_PersonalTask.pdb
+C:\Users\gluhi\source\repos\lab3_PersonalTask\bin\Debug\MetroFramework.dll
+C:\Users\gluhi\source\repos\lab3_PersonalTask\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.csproj.AssemblyReference.cache
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.Form1.resources
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.Properties.Resources.resources
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.csproj.GenerateResource.cache
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.csproj.CoreCompileInputs.cache
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.csproj.CopyComplete
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.exe
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.pdb
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.Form2.resources
+C:\Users\gluhi\source\repos\lab3_PersonalTask\obj\Debug\lab3_PersonalTask.csproj.SuggestedBindingRedirects.cache
