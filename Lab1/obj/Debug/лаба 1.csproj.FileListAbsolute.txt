@@ -1,0 +1,31 @@
+C:\Users\gluhi\source\repos\лаба 1\bin\Debug\лаба 1.exe.config
+C:\Users\gluhi\source\repos\лаба 1\bin\Debug\лаба 1.exe
+C:\Users\gluhi\source\repos\лаба 1\bin\Debug\лаба 1.pdb
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба 1.csproj.AssemblyReference.cache
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба_1.Form1.resources
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба_1.Properties.Resources.resources
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба 1.csproj.GenerateResource.cache
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба 1.exe
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба 1.pdb
+C:\Users\gluhi\source\repos\лаба 1\obj\Debug\лаба 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба 1.csproj.AssemblyReference.cache
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба_1.Form1.resources
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба_1.Properties.Resources.resources
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба 1.csproj.GenerateResource.cache
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба 1.exe
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\obj\Debug\лаба 1.pdb
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\bin\Debug\лаба 1.exe.config
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\bin\Debug\лаба 1.exe
+C:\Users\gluhi\source\repos\лаба 1 — урезанная\bin\Debug\лаба 1.pdb
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\bin\Debug\лаба 1.exe.config
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\bin\Debug\лаба 1.exe
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\bin\Debug\лаба 1.pdb
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба 1.csproj.AssemblyReference.cache
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба_1.Form1.resources
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба_1.Properties.Resources.resources
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба 1.csproj.GenerateResource.cache
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба 1.exe
+C:\Users\gluhi\Desktop\Алексндру\лаба 1 — урезанная\obj\Debug\лаба 1.pdb
